@@ -1,3 +1,4 @@
+# задачки номер 1
 mgrgr= int(input())
 for i in range(mgrgr):
     dlina,mazila = map(int,input().split())
